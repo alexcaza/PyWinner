@@ -1,5 +1,0 @@
-1 - Allow users of the script to pass it CSV files or another format of pre-built lists without having to define them in lists within the script.
-
-2 - Create a GUI that makes the interaction more fun and lets users graphically choose a file to import from.
-
-3 - Refactor code to make it class based to be imported into another app or script.
